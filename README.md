@@ -1,6 +1,6 @@
 # x86 Zinedine Zidane Kernel
 
-Maybe you think that Zinedine Zidane has achieved everything a man could want: money, fame, women and five champion leagues. However, you are wrong. Zidane does not have an operating system. The main objective of this project is to repair this injustice and give Zidane all he truly deserves.
+Maybe you think that Zinedine Zidane has achieved everything a man could want: money, fame, women and five championsleagues. However, you are wrong. Zidane does not have an operating system. The main objective of this project is to repair this injustice and give Zidane all he truly deserves.
 
 ## What is this project
 
@@ -8,7 +8,7 @@ It is actually a kernel on x86 to learn the basics made in college.
 
 ## Features
 
-* Fisrt stage loader
+* First stage loader
 * Second stage loader
 * Protected mode (32 bits x86 code)
 * GDT and IDT
@@ -22,7 +22,7 @@ It is actually a kernel on x86 to learn the basics made in college.
 The CLI is implemented in */kernel/shell.asm* and is called **zzshell**. There are three orders available:
 
 * **rset**: reboot kernel.
-* **time**: print time.
+* **time**: print rtc time.
 * **clsr**: clear screen.
 
 ![zzshell screen capture](img/zzshell.png)
