@@ -1,6 +1,6 @@
 # x86 Zinedine Zidane Kernel
 
-Maybe you think that Zinedine Zidane has achieved everything a man could want: money, fame, women and five championsleagues. However, you are wrong. Zidane does not have an operating system. The main objective of this project is to repair this injustice and give Zidane all he truly deserves.
+Maybe you think that Zinedine Zidane has achieved everything a man could want: money, fame, women and five champions leagues. However, you are wrong. Zidane does not have an operating system. The main objective of this project is to repair this injustice and give Zidane all he truly deserves.
 
 ## What is this project
 
